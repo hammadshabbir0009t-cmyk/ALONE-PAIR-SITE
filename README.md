@@ -6,8 +6,8 @@
 * [Heroku](  https://heroku.com/deploy?template=https://github.com/Arslan-MD/Arslan-Pairing-Site)
  
  all regards to
- > ArslanMD Official
+ > ALONE HACKER MODS
 >
 >
 > 
- > Arslan Tech
+ > MR ALONE OFFICIAL
