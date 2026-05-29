@@ -1,12 +1,12 @@
 {
-  "name": "arslan-pairing-site",
+  "name": "alone-hacker-pairing-site",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode Created By ArslanMD Official.",
+  "description": "A multi functional whatsapp bot Web paircode Created By AloneMD Official.",
   "main": "arslan.js",
   "scripts": {
-    "start": "pm2 start arslan.js --deep-monitoring --attach --name Arslan-MD",
+    "start": "pm2 start alone.js --deep-monitoring --attach --name Alone-MD",
     "stop": "pm2 stop Arslan-MD",
-    "restart": "pm2 restart Arslan-MD"
+    "restart": "pm2 restart Alone-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:wileys",              
