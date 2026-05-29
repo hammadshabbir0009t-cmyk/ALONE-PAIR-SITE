@@ -1,4 +1,4 @@
- ## Arslan Pairing Site
+ ## ALONE HACKER Pairing Site
  * QR code pair
  * 8 digit pair codes
 
